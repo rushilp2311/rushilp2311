@@ -1,8 +1,8 @@
 ### Hi there 👋
  ![Profile Views](https://komarev.com/ghpvc/?username=rushilp2311&style=flat-square&color=green)
- <p align="center">
+ 
 <h4>I am a Final Year Computer Science Student studying at York University, Toronto. Graduating in May 2021</h4>
-
+<p align="center">
 <a href="https://www.linkedin.com/in/rushil-patel-062054bb/">
         <img src="https://img.shields.io/badge/%20-RushilPatel-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff" />
     </a>
