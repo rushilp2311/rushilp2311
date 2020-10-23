@@ -3,8 +3,8 @@
  
 <h4>I am a Final Year Computer Science Student studying at York University, Toronto. Graduating in May 2021</h4>
 
-<h5>Experience:</h5>
-<h6>ReactJs Developer Intern @Drawpi.com </h6>
+<h5>Experience: ReactJs Developer Intern @Drawpi.com </h5>
+
 
 
 
